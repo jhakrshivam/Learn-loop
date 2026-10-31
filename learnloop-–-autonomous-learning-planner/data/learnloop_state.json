@@ -1,0 +1,299 @@
+{
+  "profile": {
+    "university": "University Institute of Technology",
+    "course": "BCA",
+    "branch": "Computer Applications",
+    "semester": "Semester 1",
+    "exam_date": "2026-10-20",
+    "learning_goal": "Build strong software engineering fundamentals",
+    "hours_per_day": 4,
+    "preferred_start_time": "17:00"
+  },
+  "subjects": [
+    {
+      "id": "sub_1789247253030_tbsb",
+      "name": "Programming",
+      "performance": 70,
+      "gap": 30,
+      "priority": "Medium",
+      "assessment_mode": "marks",
+      "confidence_level": "comfortable",
+      "student_reason": "C and Python fundamentals"
+    },
+    {
+      "id": "sub_1789247253030_mhaz",
+      "name": "Database Systems",
+      "performance": 55,
+      "gap": 45,
+      "priority": "High",
+      "assessment_mode": "self_assessment",
+      "confidence_level": "moderate",
+      "student_reason": "Relational database schema and SQL practice"
+    },
+    {
+      "id": "sub_1789247253030_4odp",
+      "name": "Computer Networks",
+      "performance": 62,
+      "gap": 38,
+      "priority": "High",
+      "assessment_mode": "marks",
+      "confidence_level": "moderate",
+      "student_reason": "TCP/IP models and subnetting"
+    }
+  ],
+  "sessions": [
+    {
+      "id": "sess_1_gx06c",
+      "date": "2026-09-12",
+      "time": "5:00 PM",
+      "subject": "Database Systems",
+      "topic": "Transactions & Concurrency",
+      "duration": 1,
+      "duration_minutes": 60,
+      "priority": "High",
+      "status": "scheduled"
+    },
+    {
+      "id": "sess_2_716xd",
+      "date": "2026-09-12",
+      "time": "6:15 PM",
+      "subject": "Computer Networks",
+      "topic": "DNS & Application Protocols",
+      "duration": 1,
+      "duration_minutes": 60,
+      "priority": "High",
+      "status": "scheduled"
+    },
+    {
+      "id": "sess_3_k27jm",
+      "date": "2026-09-12",
+      "time": "7:30 PM",
+      "subject": "Programming",
+      "topic": "Foundations & Core Principles",
+      "duration": 1,
+      "duration_minutes": 60,
+      "priority": "Medium",
+      "status": "scheduled"
+    },
+    {
+      "id": "sess_4_l5ost",
+      "date": "2026-09-13",
+      "time": "5:00 PM",
+      "subject": "Database Systems",
+      "topic": "ER Diagram Design",
+      "duration": 1,
+      "duration_minutes": 60,
+      "priority": "High",
+      "status": "scheduled"
+    },
+    {
+      "id": "sess_5_bas7v",
+      "date": "2026-09-13",
+      "time": "6:15 PM",
+      "subject": "Computer Networks",
+      "topic": "TCP Flow Control & Handshake",
+      "duration": 1,
+      "duration_minutes": 60,
+      "priority": "High",
+      "status": "scheduled"
+    },
+    {
+      "id": "sess_6_ot2vj",
+      "date": "2026-09-13",
+      "time": "7:30 PM",
+      "subject": "Programming",
+      "topic": "Comprehensive Exam Review & Practice",
+      "duration": 1,
+      "duration_minutes": 60,
+      "priority": "Medium",
+      "status": "scheduled"
+    },
+    {
+      "id": "sess_7_3l5cd",
+      "date": "2026-09-14",
+      "time": "5:00 PM",
+      "subject": "Database Systems",
+      "topic": "Normalization & 3NF / BCNF",
+      "duration": 1,
+      "duration_minutes": 60,
+      "priority": "High",
+      "status": "scheduled"
+    },
+    {
+      "id": "sess_8_mw7jd",
+      "date": "2026-09-14",
+      "time": "6:15 PM",
+      "subject": "Computer Networks",
+      "topic": "Subnetting & IP Routing",
+      "duration": 1,
+      "duration_minutes": 60,
+      "priority": "High",
+      "status": "scheduled"
+    },
+    {
+      "id": "sess_9_hmp94",
+      "date": "2026-09-14",
+      "time": "7:30 PM",
+      "subject": "Programming",
+      "topic": "Applied Methodologies & Case Studies",
+      "duration": 1,
+      "duration_minutes": 60,
+      "priority": "Medium",
+      "status": "scheduled"
+    },
+    {
+      "id": "sess_10_487p8",
+      "date": "2026-09-15",
+      "time": "5:00 PM",
+      "subject": "Database Systems",
+      "topic": "Query Optimization",
+      "duration": 1,
+      "duration_minutes": 60,
+      "priority": "High",
+      "status": "scheduled"
+    },
+    {
+      "id": "sess_11_e7osy",
+      "date": "2026-09-15",
+      "time": "6:15 PM",
+      "subject": "Computer Networks",
+      "topic": "OSI & TCP/IP Layer Architecture",
+      "duration": 1,
+      "duration_minutes": 60,
+      "priority": "High",
+      "status": "scheduled"
+    },
+    {
+      "id": "sess_12_3fqkq",
+      "date": "2026-09-15",
+      "time": "7:30 PM",
+      "subject": "Programming",
+      "topic": "Analytical Problem Solving",
+      "duration": 1,
+      "duration_minutes": 60,
+      "priority": "Medium",
+      "status": "scheduled"
+    },
+    {
+      "id": "sess_13_qv70x",
+      "date": "2026-09-16",
+      "time": "5:00 PM",
+      "subject": "Database Systems",
+      "topic": "Transactions & Concurrency",
+      "duration": 1,
+      "duration_minutes": 60,
+      "priority": "High",
+      "status": "scheduled"
+    },
+    {
+      "id": "sess_14_cphzc",
+      "date": "2026-09-16",
+      "time": "6:15 PM",
+      "subject": "Computer Networks",
+      "topic": "DNS & Application Protocols",
+      "duration": 1,
+      "duration_minutes": 60,
+      "priority": "High",
+      "status": "scheduled"
+    },
+    {
+      "id": "sess_15_a5x8t",
+      "date": "2026-09-16",
+      "time": "7:30 PM",
+      "subject": "Programming",
+      "topic": "Foundations & Core Principles",
+      "duration": 1,
+      "duration_minutes": 60,
+      "priority": "Medium",
+      "status": "scheduled"
+    },
+    {
+      "id": "sess_16_zowiy",
+      "date": "2026-09-17",
+      "time": "5:00 PM",
+      "subject": "Database Systems",
+      "topic": "ER Diagram Design",
+      "duration": 1,
+      "duration_minutes": 60,
+      "priority": "High",
+      "status": "scheduled"
+    },
+    {
+      "id": "sess_17_9higz",
+      "date": "2026-09-17",
+      "time": "6:15 PM",
+      "subject": "Computer Networks",
+      "topic": "TCP Flow Control & Handshake",
+      "duration": 1,
+      "duration_minutes": 60,
+      "priority": "High",
+      "status": "scheduled"
+    },
+    {
+      "id": "sess_18_iwbrw",
+      "date": "2026-09-18",
+      "time": "5:00 PM",
+      "subject": "Database Systems",
+      "topic": "Query Optimization",
+      "duration": 1,
+      "duration_minutes": 60,
+      "priority": "High",
+      "status": "scheduled"
+    },
+    {
+      "id": "sess_19_q186o",
+      "date": "2026-09-18",
+      "time": "6:15 PM",
+      "subject": "Computer Networks",
+      "topic": "OSI & TCP/IP Layer Architecture",
+      "duration": 0.8,
+      "duration_minutes": 48,
+      "priority": "High",
+      "status": "scheduled"
+    },
+    {
+      "id": "sess_20_y273q",
+      "date": "2026-09-19",
+      "time": "5:00 PM",
+      "subject": "Database Systems",
+      "topic": "ER Diagram Design",
+      "duration": 1,
+      "duration_minutes": 60,
+      "priority": "High",
+      "status": "scheduled"
+    }
+  ],
+  "plan_version": 1,
+  "last_replan_reason": "Student profile initialized",
+  "plan_diff": null,
+  "activity_log": [
+    {
+      "id": "log_1789247253030_nnxk",
+      "tag": "ANALYZER",
+      "message": "Performance analyzed for 3 subjects",
+      "timestamp": "09:07:33 PM"
+    },
+    {
+      "id": "log_1789247253030_sewn",
+      "tag": "SCHEDULER",
+      "message": "Plan created with 20 sessions",
+      "timestamp": "09:07:33 PM"
+    },
+    {
+      "id": "log_1789247253030_obgm",
+      "tag": "VERIFIER",
+      "message": "Deadline checked",
+      "timestamp": "09:07:33 PM"
+    }
+  ],
+  "deadline_report": {
+    "exam_date": "2026-10-20",
+    "remaining_days": 38,
+    "completed_hours": 0,
+    "remaining_required_hours": 20.3,
+    "available_future_hours": 152,
+    "is_feasible": true,
+    "status_label": "✓ Feasible"
+  },
+  "is_demo": false
+}

@@ -1,0 +1,7 @@
+{
+  "name": "LearnLoop – Autonomous Learning Planner",
+  "description": "Autonomous learning planner that dynamically analyzes, plans, tracks, and replans study schedules based on performance, missed sessions, and availability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
